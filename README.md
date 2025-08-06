@@ -39,3 +39,12 @@ A aplicação é feita em **Java**, utilizando princípios de **Programação Or
 
 ## 📁 Estrutura Atual do Projeto
 
+CasaDeRepouso/
+├── paciente/
+│ └── cadastrar_paciente.java
+│ └── pacientes.java
+├── Funcionarios/
+│ └── Colaboradores.java
+│ └── ColaboradoresArvore.java
+├── README.md
+
