@@ -27,15 +27,6 @@ A aplicação é feita em **Java**, utilizando princípios de **Programação Or
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-- **Linguagem:** Java
-- **Paradigma:** Programação Orientada a Objetos (POO)
-- **IDE:** IntelliJ IDEA, Eclipse ou VS Code
-- **Banco de Dados planejado:** PostgreSQL
-- **Ferramentas utilizadas:** Scanner, HashMap, Console I/O
-
----
 
 ## 📁 Estrutura Atual do Projeto
 
