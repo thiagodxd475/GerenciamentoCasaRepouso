@@ -73,10 +73,10 @@ public class cadastrar_paciente {
             String rg = sc.nextLine();
             sc.nextLine();
 
-            // Cria objeto paciente
+            
             pacientes p = new pacientes(nome, idade, cpf, rg);
 
-            // Adiciona ao HashMap
+            
             pacientesMap.put(cpf, p);
         }
 
